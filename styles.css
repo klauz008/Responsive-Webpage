@@ -372,7 +372,7 @@ div.footer h6 {
     div.logo {
         font-size: 1.3rem;
     }
-    .nav-links li {
+    ul.nav-links {
         flex-direction: column;
         display: none;
         width: 100%;
